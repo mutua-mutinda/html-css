@@ -1,9 +1,30 @@
 body{
-    background: rgb(102, 108, 190)
+    background: rgb(102, 108, 190);
+    font-family:'Montserrat', sans-serif;
+
+  
+
 }
+
+
 p{
-    color: rgb(53, 11, 59) 
+    color: rgb(53, 11, 59);
 }
 h1{
-    color: brown
+    color: rgb(31, 51, 17);
+}
+
+p{
+    font-family:'Montserrat', sans-serif;
+}
+tr{
+    background: bisque;
+}
+thead{
+    color: rgb(42, 60, 75);
+    text-align: center;
+}
+
+table{
+    table-layout: auto;
 }

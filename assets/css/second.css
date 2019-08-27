@@ -1,9 +1,26 @@
 body{
-    background: rgb(157, 131, 182)
+    background: rgb(157, 131, 182);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 350;
+    margin: auto;
+    
 }
 p{
-    color: rgb(2, 54, 102) 
+    color: rgb(2, 54, 102);
+  
+
 }
 h1{
-    color: brown
+    color: rgb(82, 36, 36);
+ }
+
+ p{
+   font-family:"Times New Roman";
+}
+#submit{
+    background-color: #FF9F1C;
+    border-radius: 12px;
+    margin-top: 1em;
+
 }
